@@ -2,9 +2,6 @@
 " .vimrc / init.vim
 " The following vim/neovim configuration works for both Vim and NeoVim
 
-" ensure vim-plug is installed and then load it
-" call functions#PlugLoad()
-
 " Appearance {{{
   set relativenumber "rnu
   set autoread " detect when a file is changed
